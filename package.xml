@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>SearchBar</name>
+  <description>Adds a search bar widget for tools, document objects, and preferences</description>
+  <version>2022.01</version>
+  <date>2022-01-07</date>
+  <author>email="jsmaniac.github@suzanne.soy">Suzanne Soy</author>
+  <maintainer email="jsmaniac.github@suzanne.soy">Suzanne Soy</maintainer>
+  <license file="LICENSE">CCOv1</license>
+  <url type="repository" branch="main">https://github.com/SuzanneSoy/SearchBar/</url>
+  <url type="bugtracker" branch="main">https://github.com/SuzanneSoy/SearchBar/issues</url>
+  <url type="documentation" branch="main">https://github.com/SuzanneSoy/SearchBar</url>
+  <icon>PackageIcon.svg</icon>
+
+  <content>
+    <workbench>
+      <name>SearchBar</name>
+      <description>Adds a search bar widget for tools, document objects, and preferences</description>
+      <classname></classname>
+      <subdirectory></subdirectory>
+      <icon></icon>
+      <tag>search</tag>
+      <tag>widget</tag>
+      <tag>ui/ux</tag>
+      <version></version>
+    </workbench>
+  </content>
+
+</package>
