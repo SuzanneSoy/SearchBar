@@ -6,7 +6,7 @@
   <date>2022-06-01</date>
   <author email="searchbar@suzanne.soy">Suzanne Soy</author>
   <maintainer email="searchbar@suzanne.soy">Suzanne Soy</maintainer>
-  <license file="LICENSE">CCOv1</license>
+  <license file="LICENSE">CCO-1.0</license>
   <url type="repository" branch="main">https://github.com/SuzanneSoy/SearchBar</url>
   <url type="bugtracker">https://github.com/SuzanneSoy/SearchBar/issues</url>
   <url type="documentation">https://github.com/SuzanneSoy/SearchBar</url>
